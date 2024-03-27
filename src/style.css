@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Post_Bold';
+  src: url('/fonts/Post_Bold.otf') format('opentype');
+}
+
+@font-face {
+  font-family: 'Post_Regular';
+  src: url('/fonts/Post_Regular.ttf') format('truetype');
+}
+
+.font-Post_Regular {
+  font-family: 'Post_Regular', sans-serif;
+}
+.font-Post_Bold {
+  font-family: 'Post_Bold', sans-serif;
+}
+
+
+
